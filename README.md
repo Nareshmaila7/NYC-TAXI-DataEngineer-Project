@@ -6,7 +6,7 @@ This project is designed to ingest, transform, and analyze New York City Green T
 
 ## 📁 Project Architecture
 
-![image alt(https://github.com/Nareshmaila7/NYC-TAXI-DataEngineer-Project/blob/17d238c007f0377a66111b1069d68c10083a57f1/Project%20Architecture.png)]
+![Project Architecture](https://github.com/Nareshmaila7/NYC-TAXI-DataEngineer-Project/blob/17d238c007f0377a66111b1069d68c10083a57f1/Project%20Architecture.png)
 
 **Medallion Architecture Layers:**
 
