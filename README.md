@@ -1,4 +1,4 @@
-# 🚖 NYC Green Taxi Trip Analysis with Azure Data Platform
+# 🚖 NYC-Taxi-Databricks-Pipeline
 
 This project is designed to ingest, transform, and analyze New York City Green Taxi trip data using Azure Data Factory (ADF), Azure Data Lake Storage (ADLS), Azure Databricks, and Power BI. The pipeline follows a Medallion Architecture (Bronze, Silver, Gold) to ensure scalability, reliability, and structured data transformation.
 
